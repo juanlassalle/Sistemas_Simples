@@ -1,0 +1,18 @@
+<Solution>
+  <Project Path="01_CuentaBancaria/01_CuentaBancaria.csproj" Id="c99758e6-20d0-4f65-b0ed-a10109de0209" />
+  <Project Path="02_Calificaciones/02_Calificaciones.csproj" Id="0cda9e01-1e7b-40db-a01c-c2559ad314fb" />
+  <Project Path="03_ControlDeInventario/03_ControlDeInventario.csproj" Id="00e57153-bc80-41bc-9fd3-b29322dd907c" />
+  <Project Path="04_GestionEmpleadosSalarios/04_GestionEmpleadosSalarios.csproj" Id="5db09168-74cb-409a-99e7-71618b404e05" />
+  <Project Path="05_ContadorKilometraje/05_ContadorKilometraje.csproj" Id="0172c0df-b8db-4060-858d-3d51fd98b32e" />
+  <Project Path="06_AlquilerPeliculas/06_AlquilerPeliculas.csproj" Id="0fe05fc9-31eb-4e48-9bf4-ff9765db49ee" />
+  <Project Path="07_ControlBiblioteca/07_ControlBiblioteca.csproj" Id="aee6369c-4918-43cf-b600-24a5093154c0" />
+  <Project Path="08_TermostatoDigitalInteligente/08_TermostatoDigitalInteligente.csproj" Id="94485785-f3e1-4d57-ae5c-905e6baa74a3" />
+  <Project Path="09_CarritoDeComprasSimple/09_CarritoDeComprasSimple.csproj" Id="050622b2-a60c-46d2-95bc-a53509e1d9b5" />
+  <Project Path="10_RegistroGimnasio/10_RegistroGimnasio.csproj" Id="d8a5003e-e372-4933-852c-5d47b45278c4" />
+  <Project Path="11_BilleteraVirtualCriptomonedas/11_BilleteraVirtualCriptomonedas.csproj" Id="d13624af-95b0-4d25-b030-5cdce848b44a" />
+  <Project Path="12_CuentaDescubierto/12_CuentaDescubierto.csproj" Id="097346be-eaf0-4d67-8523-042bd2c7316c" />
+  <Project Path="13_ReservasDeVuelos/13_ReservasDeVuelos.csproj" Id="491c36b3-1b9c-48c1-b258-b3a7b8ec7f10" />
+  <Project Path="14_GestionTareas/14_GestionTareas.csproj" Id="f7cd3c2f-6582-4ad4-94ed-3139acfc5af7" />
+  <Project Path="15_Peaje/15_Peaje.csproj" Id="bac5b5ab-0db8-4228-b995-68b81f0339f5" />
+  <Project Path="16_EstacionamientoTarifado/16_EstacionamientoTarifado.csproj" Id="c286575d-6339-4d04-b512-80d24ef9f359" />
+</Solution>
